@@ -2,7 +2,7 @@
 
 
 
-Exploratory data analysis (EDA) of **Dota 2 match statistics** using data from the OpenDota API(https://docs.opendota.com/), with final insights visualized in Tableau.
+Exploratory data analysis (EDA) of **Dota 2 match statistics** using data from the [OpenDota API](https://docs.opendota.com/), with final insights visualized in Tableau.
 
 
 
