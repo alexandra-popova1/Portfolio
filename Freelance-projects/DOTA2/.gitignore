@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (не публикуем датасеты)
+data/
+*.csv
+*.parquet
+*.xlsx
+*.zip
+*.gz

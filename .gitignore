@@ -1,0 +1,14 @@
+# Общие артефакты
+__pycache__/
+.ipynb_checkpoints/
+*.env
+*.env.*
+.envrc
+
+# Данные и тяжёлые файлы
+data/
+*.csv
+*.parquet
+*.xlsx
+*.zip
+*.gz
